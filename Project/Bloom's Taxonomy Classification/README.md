@@ -130,7 +130,7 @@ For inquiries, contact: `lnu.gau@northeastern.edu`
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/Dx2905/CS5100-Foundation-Of-AI/blob/main/LICENSE) file for more details.
 
 ---
 
